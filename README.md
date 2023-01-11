@@ -28,7 +28,7 @@ I have a BSc in Computer Science, and I am currently studying towards my MSc in 
 
 <!-- ## &#x270d; Blog & Writing -->
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4ca; GitHub Stats
 
 <a href="https://github.com/elpyR/elpyR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elpyR&hide=java,html,tex&title_color=42E2BA&text_color=FFFFFF&icon_color=42E2BA&bg_color=000000&langs_count=3" />
@@ -36,6 +36,13 @@ I have a BSc in Computer Science, and I am currently studying towards my MSc in 
 <a href="https://github.com/elpyR/elpyR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elpyR&show_icons=true&line_height=27&count_private=true&title_color=42E2BA&text_color=FFFFFF&icon_color=42E2BA&bg_color=000000" alt="elpyR GitHub Stats" />
 </a>
+
+## &#x1f4e2; Socials
+
+<p align="left">
+<a href="https://twitter.com/LouPemberton_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/loupemberton/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
