@@ -42,8 +42,8 @@ I have a BSc in Computer Science, and I am currently studying towards my MSc in 
 ## &#x1f4e2; Socials
 
 <p align="left">
-<a href="https://twitter.com/LouPemberton_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/loupemberton/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/LouPemberton_" target="blank"><img align="center" src="https://loupemberton.com/wp-content/uploads/2023/01/twitter.png" alt="" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/loupemberton/" target="blank"><img align="center" src="https://loupemberton.com/wp-content/uploads/2023/01/linkedin.png" alt="" height="60" width="60" /></a>
 </p>
 
 <!-- Resources -->
