@@ -48,6 +48,7 @@ I have a BSc in Computer Science, and I am currently studying towards my MSc in 
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
+<!-- Spotify Widget: https://github.com/JeffreyCA/spotify-recently-played-readme -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
