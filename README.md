@@ -1,6 +1,6 @@
 [![Header](https://loupemberton.com/wp-content/uploads/2023/01/github-header-1.png "Header")](https://loupemberton.com/)
 
-### 👋 A Brief Intro ...
+## &#x270c; A Brief Intro ...
 
 Hi, I’m Lou. 
 
