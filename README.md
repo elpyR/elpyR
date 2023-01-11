@@ -37,22 +37,6 @@ I have a BSc in Computer Science, and I am currently studying towards my MSc in 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elpyR&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=42E2BA&bg_color=000000" alt="elpyR GitHub Stats" />
 </a>
 
-<a href="https://github.com/elpyR/DataAnalysis_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elpyR&repo=DataAnalysis_Projects&title_color=FFFFFF&text_color=FFFFFF&icon_color=42E2BA&bg_color=000000" />
-</a>
-
-
-<a href="https://github.com/elpyR/ML_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elpyR&repo=ML_Projects&title_color=FFFFFF&text_color=FFFFFF&icon_color=42E2BA&bg_color=000000" />
-</a>    
-
-<!-- links to social media icons -->
-
-<a href="https://twitter.com/LouPemberton_">
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/loupemberton/">
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
