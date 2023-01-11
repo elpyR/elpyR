@@ -13,7 +13,7 @@ I have a BSc in Computer Science, and I am currently studying towards my MSc in 
 - 📫 How to reach me: hello@loupemberton.com
 - ⚡ Fun fact: I can do a great Roz of Monsters Inc. fame impression!
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313m5bcg73dqntmvpxbh26o4vnjq)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=313m5bcg73dqntmvpxbh26o4vnjq&count=2)
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
