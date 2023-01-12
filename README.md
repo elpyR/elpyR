@@ -30,15 +30,8 @@ I have a BSc in Computer Science, and I am currently studying towards my MSc in 
 
 <!-- ## &#x270d; Blog & Writing -->
 
-## &#x1f4ca; GitHub Stats
+<!-- ## &#x1f4ca; GitHub Stats -->
 
-<a href="https://github.com/elpyR/elpyR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elpyR&hide=java,html,tex&title_color=42E2BA&text_color=FFFFFF&icon_color=42E2BA&bg_color=000000&langs_count=3" />
-</a>
-
-<a href="https://github.com/elpyR/elpyR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elpyR&show_icons=true&line_height=27&count_private=true&title_color=42E2BA&text_color=FFFFFF&icon_color=42E2BA&bg_color=000000" alt="elpyR GitHub Stats" />
-</a>
 
 ## &#x1f4e2; Socials
 
