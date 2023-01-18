@@ -4,7 +4,7 @@
 
 Hi, I’m Lou. 
 
-My work consists of using data analysis and machine learning to unearth hidden insights from data, presenting those insights in easy-to-understand visuals, and then recommending ways to use them to make predictions and forecasts for better data-driven decision-making.
+My passion consists of using data analysis and machine learning to unearth hidden insights in football, presenting results in easy-to-understand visuals, and then using those results to make recommendations for better data-driven decisions.
 
 I have a BSc in Computer Science, and I am currently studying towards my MSc in Computer Science with Big Data Analytics.
 
