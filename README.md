@@ -8,7 +8,7 @@ My passion consists of using data analysis and machine learning to unearth hidde
 
 I have a BSc in Computer Science, and I am currently studying towards my MSc in Computer Science with Big Data Analytics.
 
-- 🔭 I’m currently working on BI projects for my portfolio
+- 🔭 I’m currently working on bookings prediction model
 - 🌱 I’m currently learning new visualisation tools
 - 📫 How to reach me: hello@loupemberton.com
 - ⚡ Fun fact: I can do a great Roz of <i>Monsters Inc.</i> fame impression!
