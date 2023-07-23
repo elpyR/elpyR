@@ -32,14 +32,6 @@ I have a BSc in Computer Science, and I am currently studying towards my MSc in 
 
 <!-- ## &#x1f4ca; GitHub Stats -->
 
-
-## &#x1f4e2; Socials
-
-<p align="left">
-<a href="https://twitter.com/LouPemberton_" target="blank"><img align="center" src="https://loupemberton.com/wp-content/uploads/2023/01/twitter.png" alt="" height="60" width="60" /></a>
-<a href="https://www.linkedin.com/in/loupemberton/" target="blank"><img align="center" src="https://loupemberton.com/wp-content/uploads/2023/01/linkedin.png" alt="" height="60" width="60" /></a>
-</p>
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Spotify Widget: https://github.com/JeffreyCA/spotify-recently-played-readme -->
