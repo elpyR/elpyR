@@ -10,7 +10,7 @@ I have a BSc in Computer Science, and I am currently studying towards my MSc in 
 
 - 🔭 I’m currently working on bookings prediction model
 - 🌱 I’m currently learning new visualisation tools
-- 📫 How to reach me: hello@loupemberton.com
+- 📫 How to reach me: loupemberton@gmail.com
 - ⚡ Fun fact: I can do a great Roz of <i>Monsters Inc.</i> fame impression!
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=313m5bcg73dqntmvpxbh26o4vnjq&count=2)
