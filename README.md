@@ -4,7 +4,7 @@
 
 Hi, I’m Lou. 
 
-My passion consists of using data analysis and machine learning to unearth hidden insights in football, presenting results in easy-to-understand visuals, and then using those results to make recommendations for better data-driven decisions.
+My passion consists of using data analysis and machine learning to unearth hidden insights, presenting results in easy-to-understand visuals, and then using those results to make recommendations for better data-driven decisions.
 
 I have a BSc in Computer Science, and I am currently studying towards my MSc in Computer Science with Big Data Analytics.
 
